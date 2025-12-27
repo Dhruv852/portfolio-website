@@ -11,7 +11,7 @@ export const projects = [
         ],
         techStack: ['Django', 'SQL', 'TensorFlow', 'SMOTE', 'Gemini API', 'Python'],
         githubUrl: '', // Add your GitHub URL here
-        liveUrl: '', // Add live demo URL if available
+        liveUrl: 'https://healthoracle-d1hx.onrender.com/',
         featured: true,
         date: 'Dec 2024 - Jan 2025'
     },
@@ -42,7 +42,7 @@ export const projects = [
             'Implemented semantic search over large rule PDFs with precise citations'
         ],
         techStack: ['Fast-API', 'Vector Search', 'Gemini API', 'Python', 'NLP', 'Document Processing'],
-        githubUrl: '',
+        githubUrl: 'https://github.com/Dhruv852/suvidha',
         liveUrl: '',
         featured: true,
         date: 'Jun 2024 - Jul 2024'

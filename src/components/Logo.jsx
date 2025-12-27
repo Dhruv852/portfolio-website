@@ -8,6 +8,7 @@ const Logo = ({ className = '', size = 50 }) => {
                 src="/dinero-animation.lottie"
                 loop
                 autoplay
+                speed={0.6}
             />
         </div>
     );
