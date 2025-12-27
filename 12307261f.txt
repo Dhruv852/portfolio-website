@@ -1,0 +1,72 @@
+﻿Dhruv Tiwari 
+   LinkedIn: https://www.linkedin.com/in/dhruv-tiwari21                                             Email: dhruvtiwari.21.2004@gmail.com 
+   GitHub: https://github.com/Dhruv852                                                                      Mobile: 7905445070  
+
+SKILLS  
+     Languages:      Java, Python, C++, SQL, JavaScript 
+     Frameworks:      Flask, Django, React, Flutter, LangChain, Fast-API, TensorFlow 
+     Tools/Platforms: Git, Docker, Google Studio, Firebase, Postman, Hugging Face, Kaggle 
+     Soft Skills:           Adaptability, Problem-Solving, Critical thinking, Team collaboration 
+
+INTERNSHIP      
+    Tech Intern at DRDO | (Defense Research and Development Organization – DMSRDE, Kanpur)        Jun’2025 - July’ 2025 
+
+• Built Suvidha AI, an internal chatbot using Fast-API, Vector Search, and the Gemini API to deliver accurate, 
+context-aware answers for GFR 2017 & PM 2025 queries 
+
+• Instrumented intelligent document processing and semantic search pipelines over large rule PDFs, enabling 
+context-aware answers with precise citations and achieving over 92% relevance in internal test queries. 
+
+• Shipped a secure, production-ready, end-to-end system with chat history, quick actions, and export features, 
+reducing average information lookup time by approximately 80% for typical use cases. 
+
+PROJECTS  
+ 
+
+Health Oracle – Smart healthcare diagnostic | Django, SQL, TensorFlow, SMOTE                         Dec’2024 - Jan’ 2025 
+• Engineered a Django-based intelligent health system that predicts risks for 4 major diseases (heart, lung, liver, 
+
+diabetes) using ML models achieving 85–92% accuracy. 
+• Integrated a Gemini-powered chatbots to provide instant medical guidance, increasing efficiency by 50%. 
+• Designed and developed a secure, responsive platform incorporating user profiles, prediction history, and 
+
+actionable AI insights improving overall user engagement by 60%. 
+Krishi Mitra – Web3 full stack mobile app for farmers | Sepolia, Metamask API, ERC20 contracts.                   Oct’2025 
+
+• Established and deployed 100 Cr Shankh tokens based on Ethereum test net. Purpose was to base the 
+agriculture-based transactions on cryptocurrency to increase the scope and reach of trade. 
+
+• Achieved 91% accuracy using a location-aware crop prediction model, aiding small-scale farmers in decision-making. 
+• Orchestrated cross-functional teamwork and streamlined communication between developers and tester 
+
+TRAINING   
+Summer Training – Advanced Python for ML and AI (CSE PATHSHALA)                                   July’2025 – Aug’2025 
+
+• Formulated an Air Quality Index (AQI) prediction system using multiple ML models (Linear, Ridge, Lasso, 
+Decision Tree, Random Forest), achieving a highest accuracy of R² = 0.92 in forecasting pollution levels. 
+
+• Embedded a complete ML pipeline including data cleaning, feature engineering,EDA, outlier handling, and 
+hyperparameter tuning  through Grid Search to ensure optimal model performance. 
+
+• Designed a modular OOP architecture (encapsulation, inheritance, polymorphism) that streamlined component 
+management, improved scalability, and accelerated experimentation by 30–40%. 
+
+CERTIFICATIONS  
+• Oracle Cloud Infrastructure 2025 Certified Data Science Professional – Oracle                         Nov’2025 
+• Oracle Cloud Infrastructure 2025 Certified Generative AI Professional – Oracle                          Oct’2025 
+• Oracle Cloud Infrastructure 2025 Certified AI foundations Associate – Oracle                                   July’2025  
+
+ 
+
+ACHIEVEMENTS  
+• Awarded Academic Excellence Award for maintaining a CGPA above 9.3 across all semesters     Nov’2025 
+• Community Associate at Madhuban Sewa Samiti, awarded for exemplary service          July’2024 
+
+ 
+
+EDUCATION   
+Lovely Professional University                  Phagwara, Punjab 
+BTech in Computer Science (Artificial Intelligence and Machine Learning) – CGPA: 9.3.               Aug’2023 – Present  
+ 
+Dr. Virendra Swaroop Education Centre                    Kanpur, Uttar Pradesh 
+Senior Secondary (CBSE) – Percentage: 95%         Apr’2021 – Mar’2022
