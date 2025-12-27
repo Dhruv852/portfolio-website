@@ -42,7 +42,7 @@ export const projects = [
             'Implemented semantic search over large rule PDFs with precise citations'
         ],
         techStack: ['Fast-API', 'Vector Search', 'Gemini API', 'Python', 'NLP', 'Document Processing'],
-        githubUrl: 'https://github.com/Dhruv852/suvidha',
+        githubUrl: 'https://github.com/Dhruv852/suvidha-',
         liveUrl: '',
         featured: true,
         date: 'Jun 2024 - Jul 2024'
@@ -58,7 +58,7 @@ export const projects = [
             'Implemented complete ML pipeline with hyperparameter tuning'
         ],
         techStack: ['Python', 'Scikit-learn', 'Random Forest', 'Decision Tree', 'Grid Search', 'Pandas'],
-        githubUrl: '',
+        githubUrl: 'https://github.com/Dhruv852/airquality',
         liveUrl: '',
         featured: false,
         date: 'Jul 2024 - Aug 2024'

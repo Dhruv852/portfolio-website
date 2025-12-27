@@ -16,7 +16,8 @@ export const experience = [
             metric: '80%',
             description: 'reduction in information lookup time'
         },
-        technologies: ['Fast-API', 'Vector Search', 'Gemini API', 'Python', 'NLP']
+        technologies: ['Fast-API', 'Vector Search', 'Gemini API', 'Python', 'NLP'],
+        certificateUrl: 'https://drive.google.com/file/d/1JdlZRy7evJL9p9ZswqHC3DLhVtydeYJj/view?usp=drive_link'
     },
     {
         id: 2,
@@ -35,7 +36,8 @@ export const experience = [
             metric: '0.92 R²',
             description: 'accuracy in AQI forecasting'
         },
-        technologies: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Machine Learning']
+        technologies: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Machine Learning'],
+        certificateUrl: 'https://drive.google.com/file/d/15_tlyVK8zH39WFu06O95l9x6nJUjqpNZ/view?usp=drive_link'
     }
 ];
 

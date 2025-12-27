@@ -141,11 +141,11 @@ const Contact = () => {
                 <div className="section-container">
                     {/* Quote */}
                     <div className="text-center mb-6">
-                        <p className="text-gray-600 dark:text-gray-400 italic max-w-2xl mx-auto">
-                            "The best way to predict the future is to invent it."
+                        <p className="text-gray-600 dark:text-gray-400 italic max-w-2xl mx-auto text-lg">
+                            "AI is the new electricity. Just as electricity transformed industries, AI will now do the same."
                         </p>
                         <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
-                            — Alan Kay
+                            — Andrew Ng
                         </p>
                     </div>
 
