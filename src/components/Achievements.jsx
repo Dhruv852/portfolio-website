@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Award, Heart } from 'lucide-react';
+import { Award, Heart, ExternalLink } from 'lucide-react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { achievements } from '../data/certifications';
 
@@ -64,9 +64,20 @@ const Achievements = () => {
                                             <p className="text-gray-700 dark:text-gray-300 text-sm mb-2">
                                                 {achievement.description}
                                             </p>
-                                            <p className="text-xs text-gray-500 dark:text-gray-500">
+                                            <p className="text-xs text-gray-500 dark:text-gray-500 mb-3">
                                                 {achievement.date}
                                             </p>
+                                            {achievement.credentialUrl && (
+                                                <a
+                                                    href={achievement.credentialUrl}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="inline-flex items-center gap-2 text-sm font-medium text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+                                                >
+                                                    <ExternalLink className="w-4 h-4" />
+                                                    View Certificate
+                                                </a>
+                                            )}
                                         </div>
                                     </div>
                                 </motion.div>

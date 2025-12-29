@@ -43,7 +43,7 @@ export const projects = [
         ],
         techStack: ['Fast-API', 'Vector Search', 'Gemini API', 'Python', 'NLP', 'Document Processing'],
         githubUrl: 'https://github.com/Dhruv852/suvidha-',
-        liveUrl: '',
+        liveUrl: 'https://suvidha-six.vercel.app/',
         featured: true,
         date: 'Jun 2024 - Jul 2024'
     },

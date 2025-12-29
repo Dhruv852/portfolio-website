@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Briefcase, Calendar, MapPin, TrendingUp } from 'lucide-react';
+import { Briefcase, Calendar, MapPin, TrendingUp, ExternalLink } from 'lucide-react';
 import { useStaggerAnimation } from '../hooks/useScrollAnimation';
 import { experience } from '../data/experience';
 
@@ -116,6 +116,21 @@ const Experience = () => {
                                                     </span>
                                                 ))}
                                             </div>
+
+                                            {/* Certificate Link */}
+                                            {item.certificateUrl && (
+                                                <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
+                                                    <a
+                                                        href={item.certificateUrl}
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
+                                                        className="inline-flex items-center gap-2 text-sm font-medium text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+                                                    >
+                                                        <ExternalLink className="w-4 h-4" />
+                                                        View Certificate
+                                                    </a>
+                                                </div>
+                                            )}
                                         </div>
                                     </div>
                                 </motion.div>
