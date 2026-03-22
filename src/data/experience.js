@@ -22,7 +22,7 @@ export const experience = [
     {
         id: 2,
         type: 'training',
-        role: 'Summer Training',
+        role: 'Training',
         organization: 'CSE Pathshala',
         location: 'Advanced Python for ML and AI',
         duration: 'Jul 2024 - Aug 2024',

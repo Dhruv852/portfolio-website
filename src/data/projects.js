@@ -10,7 +10,7 @@ export const projects = [
             'Improved user engagement by 60% with prediction history and AI insights'
         ],
         techStack: ['Django', 'SQL', 'TensorFlow', 'SMOTE', 'Gemini API', 'Python'],
-        githubUrl: '', // Add your GitHub URL here
+        githubUrl: 'https://github.com/Dhruv852/HealthOracle',
         liveUrl: 'https://healthoracle-d1hx.onrender.com/',
         featured: true,
         date: 'Dec 2024 - Jan 2025'
@@ -26,7 +26,7 @@ export const projects = [
             'Streamlined communication between developers and testers'
         ],
         techStack: ['Flutter', 'Sepolia', 'Metamask API', 'ERC20', 'Machine Learning', 'Blockchain'],
-        githubUrl: '', // Add your GitHub URL here
+        githubUrl: 'https://github.com/Dhruv852/KrishiMitr',
         liveUrl: '',
         featured: true,
         date: 'Oct 2024'
