@@ -75,7 +75,7 @@ const Achievements = () => {
                                                     className="inline-flex items-center gap-2 text-sm font-medium text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
                                                 >
                                                     <ExternalLink className="w-4 h-4" />
-                                                    View Certificate
+                                                    {achievement.linkLabel || 'View Certificate'}
                                                 </a>
                                             )}
                                         </div>

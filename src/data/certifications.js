@@ -31,6 +31,16 @@ export const certifications = [
 export const achievements = [
     {
         id: 1,
+        title: 'Research Paper Published',
+        organization: 'arXiv — cs.LG',
+        description: 'Emotion-Inspired Learning Signals for Reinforcement Learning — published on arXiv under Computer Science, Machine Learning (cs.LG).',
+        date: 'Dec 2024',
+        icon: 'award',
+        credentialUrl: 'https://arxiv.org/abs/2512.22200',
+        linkLabel: 'View Paper'
+    },
+    {
+        id: 2,
         title: 'Academic Excellence Award',
         description: 'Awarded for maintaining a CGPA above 9.3 across all semesters',
         date: 'Nov 2024',
@@ -38,7 +48,7 @@ export const achievements = [
         credentialUrl: 'https://drive.google.com/file/d/1GGiGOFL8hga_UPeb5dG6g6h-oASpXrcA/view'
     },
     {
-        id: 2,
+        id: 3,
         title: 'Community Associate',
         organization: 'Madhuban Sewa Samiti',
         description: 'Awarded for exemplary service and community contribution',
